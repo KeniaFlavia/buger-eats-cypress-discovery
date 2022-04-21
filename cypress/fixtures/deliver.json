@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Kenia Flavia",
+        "cpf": "00000014141",
+        "email": "keniaflavia@gmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "30730170",
+            "street": "Rua Lorena",
+            "number": "768",
+            "details": "Ap 403",
+            "district": "Padre Eustáquio",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }, 
+    "cpf_inv": {
+        "name": "Jose Reis",
+        "cpf": "X00000141AA",
+        "email": "josereis@gmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "30730170",
+            "street": "Rua Lorena",
+            "number": "768",
+            "details": "Ap 403",
+            "district": "Padre Eustáquio",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Kenia Flavia",
+        "cpf": "00000014141",
+        "email": "kenia.com.br",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "30730170",
+            "street": "Rua Lorena",
+            "number": "768",
+            "details": "Ap 403",
+            "district": "Padre Eustáquio",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
